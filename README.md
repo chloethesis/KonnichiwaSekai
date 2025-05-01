@@ -1,1 +1,1 @@
-# Konnichiwa Sekai
+# Konnichiwa Sekai Program
