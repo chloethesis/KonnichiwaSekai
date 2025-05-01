@@ -1,1 +1,1 @@
-print("Konnichiwa Sekai");
+print("Konnichiwa Sekai")
