@@ -1,0 +1,1 @@
+cat("Konnichiwa\n")
